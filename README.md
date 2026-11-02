@@ -19,7 +19,7 @@ of my CodeAlpha Data Analytics Internship.
 - Created visualizations to identify important trends.
 - Used statistical tests to examine relationships.
 
-**Project folder:** `CodeAlpha_Bank_Customer_Analysis`
+**Project folder:** [View Bank Customer Analysis](./CodeAlpha_Bank_Customer_Analysis/)
 
 ## Skills Demonstrated
 
